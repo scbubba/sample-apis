@@ -1,0 +1,7 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Sample APIs",
+        "description": "Sample BRASS API project"
+    }
+}
